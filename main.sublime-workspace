@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"heig",
+				"line-height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sc",
+				"scaleY()"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fotn",
+				"font-weight"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"choice",
+				"choiceNumSuffix"
+			],
+			[
+				"pl",
+				"plural"
+			],
+			[
+				"plur",
+				"pluralize"
+			],
+			[
+				"str",
+				"str2"
+			],
+			[
+				"string",
+				"string1"
+			],
+			[
+				"s",
+				"string1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"square",
+				"squareNumber"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"paddin",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 333.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/PROJECTS/07-jquery-streetfighter-master/main.html",
+		"/Users/basiadesign/Documents/CLASSES/Triangle_Startup_Weekend/jettpakk/science-filter.html",
+		"/Users/basiadesign/Documents/CLASSES/Triangle_Startup_Weekend/jettpakk/our-team.html",
+		"/Users/basiadesign/Documents/CLASSES/Triangle_Startup_Weekend/jettpakk/signup-form.html",
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/PROJECTS/04-Hello-World/index.html",
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/05 Responsive/toggle-animation/style.css",
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/05 Responsive/toggle-animation/app.js",
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/05 Responsive/toggle-animation/index.html",
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/PROJECTS/05-responsive-blog-clone/font-awesome/css/font-awesome.min.css",
+		"/Users/basiadesign/Documents/Clients/medlio/mobile-app-demo/medlio-od-app/css/bootstrap.css",
+		"/Users/basiadesign/Documents/Clients/medlio/mobile-app-demo/medlio-od-app/confirm.html",
+		"/Users/basiadesign/Documents/Clients/medlio/mobile-app-demo/medlio-od-app/provider.html",
+		"/Users/basiadesign/Documents/Clients/medlio/mobile-app-demo/medlio-od-app/searchScroll.html",
+		"/Users/basiadesign/Documents/Clients/medlio/mobile-app-demo/medlio-od-app/minorIllness.html",
+		"/Users/basiadesign/Desktop/test.html",
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/01 Websites Behind the scenes/Project1/mystyle.css",
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/01 Websites Behind the scenes/Project1/freshprince.html",
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/01 Websites Behind the scenes/freshprince.html",
+		"/Users/basiadesign/Documents/CLASSES/THINKFUL/01 Websites Behind the scenes/index.html",
+		"/Users/basiadesign/Documents/CLASSES/GDI RDU Classes/JavaScript Intro/class1_homework/index.html",
+		"/Users/basiadesign/Documents/CLASSES/GDI RDU Classes/JavaScript Intro/class1_homework/myscripthomework.js",
+		"/Users/basiadesign/Downloads/.htaccess",
+		"/Users/basiadesign/Downloads/htaccess",
+		"/Users/basiadesign/Documents/Clients/sundara/website/theme/gather_theme/gather/header.php",
+		"/Users/basiadesign/Desktop/wp-config.php",
+		"/Users/basiadesign/Downloads/after-move/wp-content/themes/gather/woocommerce/single-product.php",
+		"/Users/basiadesign/Sites/BACKUPS/sundara/whole-site-08-20-14/wp-content/plugins/woocommerce/templates/single-product.php",
+		"/Users/basiadesign/Downloads/wp-content/plugins/woocommerce/woocommerce.php",
+		"/Users/basiadesign/Downloads/wp-content/themes/gather/index.php",
+		"/Users/basiadesign/Downloads/wp-includes/revision.php",
+		"/Users/basiadesign/Documents/CLASSES/lynda.com/programming-javascript/class1/container.html",
+		"/Users/basiadesign/Documents/CLASSES/lynda.com/programming-javascript/class1/script.js",
+		"/Users/basiadesign/Documents/CLASSES/lynda.com/programming-javascript/script.js",
+		"/Users/basiadesign/Documents/CLASSES/lynda.com/programming-javascript/container.html",
+		"/Users/basiadesign/Documents/LEARNING/GDI RDU Classes/HTML_CSS_Beyond_Basics/class1/practice/stylesheets/styles.css",
+		"/Users/basiadesign/Documents/Clients/dr-angelo-castello/landing_pages/chiropractic/index.html",
+		"/Users/basiadesign/Documents/Clients/dr-angelo-castello/landing_pages/chiropractic/css/custom.css",
+		"/Users/basiadesign/Documents/Clients/dr-angelo-castello/landing_pages/chiropractic/images/chiropractic_nysw.jpg",
+		"/Users/basiadesign/Desktop/test/css/custom.css",
+		"/Users/basiadesign/Documents/Clients/dr-angelo-castello/landing_pages/chiropractic/images/jumbotronbackground.jpg",
+		"/Users/basiadesign/Desktop/test/index.html",
+		"/Users/basiadesign/Downloads/contact-us/scripts/wufoo.js",
+		"/Users/basiadesign/Sites/BACKUPS/basiacoulterdesign/whole-site-07-02-14/sitemap.xml",
+		"/Users/basiadesign/Sites/BACKUPS/basiacoulterdesign/whole-site-07-02-14/robots.txt",
+		"/Users/basiadesign/Documents/AIGA Raleigh/volunteering/web design sign walk/aiga_raleigh_sign_walk/css/custom.css",
+		"/Users/basiadesign/Documents/AIGA Raleigh/volunteering/web design sign walk/aiga_raleigh_sign_walk/index.html",
+		"/Users/basiadesign/Documents/AIGA Raleigh/volunteering/web design sign walk/landing_page_development/index.html",
+		"/Users/basiadesign/Documents/Clients/medlio/poweredbymedlio_adwords_landing/medlio_powered_adwords_langing_page/css/custom.css",
+		"/Users/basiadesign/Documents/Clients/medlio/poweredbymedlio_adwords_landing/medlio_powered_adwords_langing_page/index.html",
+		"/Users/basiadesign/Documents/Clients/medlio/poweredbymedlio_adwords_landing/medlio_powered_adwords_langing_page/images/checkmark.png",
+		"/Users/basiadesign/Documents/Clients/medlio/poweredbymedlio_adwords_landing/medlio_powered_adwords_langing_page/index_good.html",
+		"/Users/basiadesign/Documents/Clients/medlio/poweredbymedlio_adwords_landing/powered_adwords_langing_page/css/custom.css",
+		"/Users/basiadesign/Documents/Clients/medlio/poweredbymedlio_adwords_landing/powered_adwords_langing_page/index.html",
+		"/Users/basiadesign/Sites/bootsrtap-learning/js/respond.js",
+		"/Users/basiadesign/Documents/RESOURCES/coding and scripts/html file elements/html5_template.html",
+		"/Users/basiadesign/Sites/bootsrtap-learning/fonts/glyphicons-halflings-regular.ttf",
+		"/Users/basiadesign/Sites/bootsrtap-learning/fonts/glyphicons-halflings-regular.svg",
+		"/Users/basiadesign/Documents/tutorials/html5_css3/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h3",
+			"jumbotron"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
